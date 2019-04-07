@@ -8,7 +8,9 @@ Open Cloudshell
 
 Step3:
 
-Create a file with name Create_VM_Azure.sh and copy the content
+Upload the file  Create_VM_Azure.sh into the cloudshell
+
+![coudshell](https://github.com/gogularaja229/Devops_Exercise/blob/master/Exercise1/Selection_259.png)
 
 Step4:
 
