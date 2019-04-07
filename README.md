@@ -1,2 +1,2 @@
 # Devops_Exercise
-Create server in Azure
+Follow the Readme files in each Exercise folder
