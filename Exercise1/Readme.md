@@ -19,3 +19,7 @@ command : sh Create_VM_Azure.sh
 Step5:
 
 Login into the corresponding server & run the script "system_usage.sh" to get the system usage.
+
+Now you can see the output as shown below
+
+![system usage](https://github.com/gogularaja229/Devops_Exercise/blob/master/Exercise1/Selection_258.png)
