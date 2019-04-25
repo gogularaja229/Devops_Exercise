@@ -15,5 +15,5 @@ Then restarted the DefaultAppPool.
 Now the application is working fine.
 
 
-![iis](https://github.com/gogularaja229/Devops_Exercise/blob/master/Exercise3/Selection_284.png)
-![browser](https://github.com/gogularaja229/Devops_Exercise/blob/master/Exercise3/Selection_285.png)
+![iis](https://github.com/gogularaja229/Devops_Exercise/blob/master/Exercise4/Selection_284.png)
+![browser](https://github.com/gogularaja229/Devops_Exercise/blob/master/Exercise4/Selection_285.png)
